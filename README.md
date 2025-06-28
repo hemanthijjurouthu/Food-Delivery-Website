@@ -61,4 +61,11 @@ A complete full-stack food ordering system with separate interfaces for **Admin*
 
 ---
 
+## 📽️ Demo
+
+🎬 [Click here to watch the video demo](https://drive.google.com/file/d/1tH-5BSLaXIMGaaf-vvwayTKK_-HKDIpg/view?usp=drive_link)
+
+> This demo walks through both the Admin Panel and the Customer App functionalities including food management, ordering, and Stripe payment integration.
+
+
 
