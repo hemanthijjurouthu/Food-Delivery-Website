@@ -67,5 +67,25 @@ A complete full-stack food ordering system with separate interfaces for **Admin*
 
 > This demo walks through both the Admin Panel and the Customer App functionalities including food management, ordering, and Stripe payment integration.
 
+## 🌐 Live Demo
+
+Explore the live versions of the Food Delivery Application:
+
+### 🛒 Customer Application  
+[Click Here to Visit → Food Delivery for Customers](https://food-delivery-frontend-webiste.onrender.com)  
+This is the user-facing application where customers can:
+- View food items and details uploaded by the admin
+- Browse the food menu by category
+- Add items to their cart
+- Place and track orders
+- View order history
+
+### 🛠️ Admin Dashboard  
+[Click Here to Visit → Food Delivery Admin Panel](https://food-del-admin-iota.vercel.app)  
+This is the admin-side application where the administrator can:
+- Upload products with detailed specifications
+- List and manage all available food items
+- Track and manage orders placed by customers
+
 
 
